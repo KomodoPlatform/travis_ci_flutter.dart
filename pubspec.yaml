@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   meta: # dart.dev
-  process_run: # 0.10.8 - TODO: secure code review 129f744d0b9b6e71cd78cd8207abda0e33c01570 (0.10.8)
+  process_run: # 0.10.8 - DONE: secure code reviewed 129f744d0b9b6e71cd78cd8207abda0e33c01570 (0.10.8)
     git:
       url: git://github.com/KomodoPlatform/process_run.dart.git
       ref: 129f744d0b9b6e71cd78cd8207abda0e33c01570
